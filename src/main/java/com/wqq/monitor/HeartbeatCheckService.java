@@ -1,4 +1,4 @@
-package com.wqq.httpclient;
+package com.wqq.monitor;
 
 import java.util.Collection;
 import java.util.concurrent.ConcurrentHashMap;
@@ -14,6 +14,8 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.concurrent.FutureCallback;
 import org.apache.http.impl.nio.client.CloseableHttpAsyncClient;
 import org.apache.http.nio.reactor.IOReactorException;
+
+import com.wqq.httpclient.HttpAsyncClient;
 
 /**
  * 心跳检测服务

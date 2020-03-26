@@ -1,5 +1,8 @@
 package com.wqq.httpclient;
 
+import com.wqq.monitor.AppMonitorConfig;
+import com.wqq.monitor.HeartbeatCheckService;
+
 public class TestMain {
 	
 	public static void main(String[] args) throws Exception {

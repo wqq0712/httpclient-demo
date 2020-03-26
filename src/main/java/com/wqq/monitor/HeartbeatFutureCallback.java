@@ -1,4 +1,4 @@
-package com.wqq.httpclient;
+package com.wqq.monitor;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;

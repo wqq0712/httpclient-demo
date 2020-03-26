@@ -1,4 +1,4 @@
-package com.wqq.httpclient;
+package com.wqq.monitor;
 
 /**
  * 应用监控配置
